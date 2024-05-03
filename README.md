@@ -16,9 +16,9 @@ I am a passionate B.Tech CSE student at MCKV Institute of Engineering, driven by
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React for dynamic front-end experiences.
+  - Exploring the magical world of Express for dynamic back-end functionalities of a website.
   - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Playing around with BootStrap and build responsive user interfaces based on project requirements.
   - Building server-side applications on Node.js, a powerful JavaScript runtime environment.
   - Diving into MongoDB for efficient and scalable database management.
 
