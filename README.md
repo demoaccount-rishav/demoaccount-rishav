@@ -4,7 +4,7 @@
 
 I am a passionate B.Tech CSE student at MCKV Institute of Engineering, driven by a curiosity for technology and a love for coding. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![demoaccount-rishav's Stats](https://github-readme-stats.vercel.app/api?username=demoaccount-rishav&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![demoaccount-rishav's Stats](https://github-readme-stats.vercel.app/api?username=demoaccount-rishav&theme=light&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -25,7 +25,7 @@ I am a passionate B.Tech CSE student at MCKV Institute of Engineering, driven by
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn](www.linkedin.com/in/rishav-bhowmick-cseds50451)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/rishav-bhowmick-cseds50451)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
