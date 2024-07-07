@@ -14,7 +14,7 @@ I am a passionate B.Tech CSE student at MCKV Institute of Engineering, driven by
 - 🔭 I'm currently pursuing my Bachelor's in Computer Science at MCKV Institute of Engineering.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,postman,npm,py,java,aws,git,github,c,linux,vim,vscode,linkedin&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,postman,npm,py,java,aws,git,github,c,linux,vim,vscode,linkedin&perline=4)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
