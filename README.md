@@ -9,6 +9,9 @@ I am a passionate B.Tech CSE student at MCKV Institute of Engineering, driven by
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=demoaccount-rishav&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+
+<img width=400 src="https://leetcard.jacoblin.cool/rishav_skills?theme=wtf"/>
+
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Bachelor's in Computer Science at MCKV Institute of Engineering.
