@@ -4,7 +4,7 @@
 
 I am a passionate B.Tech CSE student at MCKV Institute of Engineering, driven by a curiosity for technology and a love for coding. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![demoaccount-rishav's Stats](https://github-readme-stats.vercel.app/api?username=demoaccount-rishav&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![demoaccount-rishav's Stats](https://github-readme-stats.vercel.app/api?username=demoaccount-rishav&theme=vue-dark&card_width=500&show_icons=true&hide_border=true&count_private=true)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=demoaccount-rishav&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
